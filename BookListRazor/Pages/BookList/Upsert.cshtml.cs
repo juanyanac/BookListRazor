@@ -29,7 +29,7 @@ namespace BookListRazor.Pages.BookList
             //update
             Book = await _db.Book.FirstOrDefaultAsync(u => u.Id == id);
             if (Book == null)
-            {                
+            {
                 return NotFound();
             }
             return Page();
@@ -38,11 +38,6 @@ namespace BookListRazor.Pages.BookList
         {
             if (ModelState.IsValid)
             {
-                /*var BookFromDb = await _db.Book.FindAsync(Book.Id);
-                BookFromDb.Name = Book.Name;
-                BookFromDb.Author = Book.Author;
-                BookFromDb.ISBN = Book.ISBN;
-                await _db.SaveChangesAsync();*/
                 if (Book.Id == 0)
                 {
                     _db.Book.Add(Book);
