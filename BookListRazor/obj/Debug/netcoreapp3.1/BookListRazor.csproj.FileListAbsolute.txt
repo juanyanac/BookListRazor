@@ -2,7 +2,6 @@ C:\Users\Administrador\Dropbox\Udemy\Complete guide to ASP.NET Core MVC (v3.1)\B
 C:\Users\Administrador\Dropbox\Udemy\Complete guide to ASP.NET Core MVC (v3.1)\BookListRazor\BookListRazor\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Administrador\Dropbox\Udemy\Complete guide to ASP.NET Core MVC (v3.1)\BookListRazor\BookListRazor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Administrador\Dropbox\Udemy\Complete guide to ASP.NET Core MVC (v3.1)\BookListRazor\BookListRazor\bin\Debug\netcoreapp3.1\BookListRazor.exe
-C:\Users\Administrador\Dropbox\Udemy\Complete guide to ASP.NET Core MVC (v3.1)\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.csprojAssemblyReference.cache
 C:\Users\Administrador\Dropbox\Udemy\Complete guide to ASP.NET Core MVC (v3.1)\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.AssemblyInfoInputs.cache
 C:\Users\Administrador\Dropbox\Udemy\Complete guide to ASP.NET Core MVC (v3.1)\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.AssemblyInfo.cs
 C:\Users\Administrador\Dropbox\Udemy\Complete guide to ASP.NET Core MVC (v3.1)\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.RazorAssemblyInfo.cache
@@ -423,3 +422,4 @@ C:\Users\Administrador\Dropbox\Udemy\Complete guide to ASP.NET Core MVC (v3.1)\B
 C:\Users\Administrador\Dropbox\Udemy\Complete guide to ASP.NET Core MVC (v3.1)\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Index.cshtml.g.cs
 C:\Users\Administrador\Dropbox\Udemy\Complete guide to ASP.NET Core MVC (v3.1)\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
 C:\Users\Administrador\Dropbox\Udemy\Complete guide to ASP.NET Core MVC (v3.1)\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs
+C:\Users\Administrador\Dropbox\Udemy\Complete guide to ASP.NET Core MVC (v3.1)\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.csprojAssemblyReference.cache
