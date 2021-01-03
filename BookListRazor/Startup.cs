@@ -28,6 +28,8 @@ namespace BookListRazor
             //add conection to db and injetion depedency
             services.AddDbContext<ApplicationDbContext>
                 (option => option.UseSqlServer(Configuration.GetConnectionString("SqlServer251BookRazor")));
+            //add controller support
+            services.AddControllersWithViews();
             //add runtimecompilation
             services.AddRazorPages().AddRazorRuntimeCompilation();
         }
@@ -55,6 +57,7 @@ namespace BookListRazor
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllers();
                 endpoints.MapRazorPages();
             });
         }
